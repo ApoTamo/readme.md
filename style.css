@@ -1,0 +1,186 @@
+.cart {
+	margin-left: 40px;
+	margin-right: 3px;
+	fill: black;
+	transition: fill 0.1s, transform 0.1s;
+}
+
+.navbar-custom {
+	background-color: white;
+	transition: background-color 0.3s;
+}
+
+.navbar-custom:hover {
+	background-color: black;
+}
+
+.navbar-custom .nav-link,
+.navbar-custom .cart {
+	color: black;
+	transition: color 0.3s, transform 0.3s;
+}
+
+.navbar-custom .nav-link:hover,
+.navbar-custom .cart:hover {
+	transform: translateY(-3px);
+}
+
+.navbar-custom:hover .nav-link,
+.navbar-custom:hover .cart {
+	color: white;
+	fill: white;
+}
+
+.navbar-custom:hover .navbar-brand {
+	color: white;
+}
+
+.contact {
+	margin-right: 10px;
+}
+
+.kop {
+	background-color: lightgrey;
+	padding: 20px;
+	border-radius: 10px;
+	margin-top: 100px;
+	margin-left: 50px;
+	width: 650px;
+}
+
+.kop button {
+	border-radius: 50px;
+	padding: 5px;
+	width: 100px;
+	margin-right: 200px;
+	background-color: black;
+	color: white;
+	border: none;
+	transition: background-color 0.3s, color 0.3s;
+}
+
+
+.kop button:hover {
+	background-color: rgb(83, 82, 82);
+	color: #fff;
+}
+
+.superkop {
+	display: flex;
+}
+
+.weetje {
+	display: flex;
+	justify-content: flex-end;
+	margin-right: 5%;
+	margin-top: -20px;
+	font-style: italic;
+}
+
+
+.weetje p {
+	width: 400px;
+}
+
+.card-title {
+	margin-top: 100px;
+}
+
+.card a {
+	margin-top: 10px;
+}
+
+.card {
+	animation: floatAnimation 1s ease infinite alternate;
+	transition: box-shadow 0.3s ease;
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+}
+
+@keyframes floatAnimation {
+	0% {
+		transform: translateY(0);
+	}
+
+	100% {
+		transform: translateY(-10px);
+	}
+}
+
+.dogsuit {
+	margin-left: -250px;
+	margin-top: 50px;
+}
+
+img {
+	margin-left: 100px;
+	margin-bottom: -150px;
+}
+
+.card img {
+	margin-top: 5px;
+	margin-left: -5px;
+}
+
+
+
+.comments {
+	text-align: center;
+	margin-bottom: 200px
+}
+
+.comments h1 {
+	color: rgb(171, 171, 27);
+	font-style: oblique;
+}
+
+.reviews {
+	border: solid rgb(171, 171, 27) 5px;
+	width: 550px;
+	margin: 0 auto;
+	margin-top: 50px;
+	padding: 30px;
+}
+
+#review-knop {
+	margin-top: 10px;
+	margin-left: 450px;
+}
+
+#review-knop:hover {
+	background-color: rgb(171, 171, 27);
+	color: white;
+}
+
+.social-links a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.social-links :hover {
+	color: grey;
+}
+
+.copyright a {
+	color: white;
+}
+
+#cart-icon {
+	position: relative;
+}
+
+#cart-count {
+	position: absolute;
+	top: -7px;
+	right: -10px;
+	background-color: red;
+	color: white;
+	border-radius: 50%;
+	padding: 2px 6px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+#cart-icon:hover .cart {
+	transform: translateY(-5px);
+	transition: transform 0.3s;
+}

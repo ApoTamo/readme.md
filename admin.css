@@ -1,0 +1,4 @@
+#btn-orders:hover, #btn-products:hover {
+    background-color: black;
+    color: blue;
+}

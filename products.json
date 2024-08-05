@@ -1,0 +1,32 @@
+[
+    {
+        "image": "dogbowl.png",
+        "description": "Dog Bowl",
+        "price": "€10.00"
+    },
+    {
+        "image": "dogcage.png",
+        "description": "Dog Cage",
+        "price": "€50.00"
+    },
+    {
+        "image": "dogcollar.png",
+        "description": "Dog Collar",
+        "price": "€15.00"
+    },
+    {
+        "image": "dogbrush.png",
+        "description": "Dog Brush",
+        "price": "€7.00"
+    },
+    {
+        "image": "dogtreat.png",
+        "description": "Dog Treat Jar",
+        "price": "€5.00"
+    },
+    {
+        "image": "dogbed.png",
+        "description": "Dog Bed",
+        "price": "€30.00"
+    }
+]

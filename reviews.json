@@ -1,0 +1,76 @@
+{
+    "reviews": [
+        {
+            "product": "Dog Bowl",
+            "review": "Great quality dog bowl! Sturdy and easy to clean.",
+            "rating": 4,
+            "user": "Mahmut1453"
+        },
+        {
+            "product": "Dog Collar",
+            "review": "Love the design of this collar. Fits my dog perfectly.",
+            "rating": 5,
+            "user": "Kangal_love"
+        },
+        {
+            "product": "Dog Bed",
+            "review": "My dog absolutely loves this bed! So comfy and cozy.",
+            "rating": 5,
+            "user": "GaraBasss-3"
+        },
+        {
+            "product": "Dog Brush",
+            "review": "Works great for my dog's thick fur. Removes tangles easily.",
+            "rating": 4,
+            "user": "Samanthaxx"
+        },
+        {
+            "product": "Dog Cage",
+            "review": "Spacious and well-built cage. Perfect for training.",
+            "rating": 4,
+            "user": "Jake Paul"
+        },
+        {
+            "product": "Dog Treat Jar",
+            "review": "Cute jar and keeps treats fresh. My dog gets excited every time!",
+            "rating": 5,
+            "user": "Alexanderking"
+        },
+        {
+            "product": "Dog Bowl",
+            "review": "Simple and effective bowl. Nothing fancy but gets the job done.",
+            "rating": 3,
+            "user": "Frederik van Vliet"
+        },
+        {
+            "product": "Dog Collar",
+            "review": "Durable collar, but the buckle could be stronger.",
+            "rating": 3,
+            "user": "Sarahh123"
+        },
+        {
+            "product": "Dog Bed",
+            "review": "Nice design but a bit too firm for my dog's liking.",
+            "rating": 3,
+            "user": "K9bea"
+        },
+        {
+            "product": "Dog Brush",
+            "review": "Good brush for daily grooming. Handle is comfortable to hold.",
+            "rating": 5,
+            "user": "DogExpertgirl"
+        },
+        {
+            "product": "Dog Cage",
+            "review": "Excellent crate for travel. Lightweight yet sturdy.",
+            "rating": 5,
+            "user": "PawPaw"
+        },
+        {
+            "product": "Dog Treat Jar",
+            "review": "Love the design and it keeps treats fresh for weeks!",
+            "rating": 4,
+            "user": "Wiggle04"
+        }
+    ]
+}
